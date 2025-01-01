@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "jp-hainaut-dev",
+    "dev": "jp-hainaut-dev",
+    "production": "jp-hainaut"
+  },
+  "targets": {},
+  "etags": {}
+}
